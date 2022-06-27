@@ -1,0 +1,26 @@
+# main_activity.xml
+...
+  <com.google.android.gms.ads.AdView
+      xmlns:ads=
+AdView adView = new AdView(this);
+
+adView.setAdSize(AdSize.BANNER);
+
+adView
+package ...
+AdView adView = new AdView(this);
+
+adView.setAdSize(AdSize.BANNER);
+
+adViewadView.setAdUnitId("ca-app-pub-6229212742563004~5752326800");
+// TODO: Add adView to your view hierarchy.
+import ...
+import com.google.android.gms.ads.AdRequest
+mAdView.setAdListener(new AdListener() {
+    @Override
+    public void onAdClicked() {
+AdSize adSize = new AdSize(300, 50);
+<application android:hardwareAccelerated="true">
+    <!-- For activities that use ads, hardwareAcceleration should be true. -->
+    <activity android:hardwareAccelerated="true" />
+    <!-- For activities that don't use ads, hardwareAcceleration can be false. -->
